@@ -1,16 +1,22 @@
 {
-    "name": "spatie/:package_name",
-    "description": ":package_description",
+    "name": "spatie/phpunit-docker-assertions",
+    "description": "Run assertions against a Docker container",
     "keywords": [
         "spatie",
-        ":package_name"
+        "phpunit-docker-assertions"
     ],
-    "homepage": "https://github.com/spatie/:package_name",
+    "homepage": "https://github.com/spatie/phpunit-docker-assertions",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
+            "name": "TJ Miller",
+            "email": "tj@awesomesaurus.com",
+            "homepage": "https://tjmiller.co",
+            "role": "Developer"
+        },
+        {
+            "name": "Freek Van der Herten",
+            "email": "freek@spatie.be",
             "homepage": "https://spatie.be",
             "role": "Developer"
         }
