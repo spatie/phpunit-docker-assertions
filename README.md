@@ -1,6 +1,3 @@
-
-[<img src="https://github-ads.s3.eu-central-1.amazonaws.com/support-ukraine.svg?t=1" />](https://supportukrainenow.org)
-
 # Run assertions against a Docker container
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/spatie/phpunit-docker-assertions.svg?style=flat-square)](https://packagist.org/packages/spatie/phpunit-docker-assertions)
